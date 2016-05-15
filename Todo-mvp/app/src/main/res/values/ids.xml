@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主界面  Main interface-->
+    <item type="id" name="drawer_layout"></item>
+    <item type="id" name="nav_view"></item>
+</resources>
